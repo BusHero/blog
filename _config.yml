@@ -1,13 +1,12 @@
 title: Milliways
 email: petru.cervac@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The place where ideas goes to die
+  Where ideas go to die
 twitter_username: petru.cervac
 github_username: BusHero
 domain: "bushero.github.io"
 url: "https://bushero.github.io"
 baseurl: "/blog/"
-# Build settings
 theme: minima
 plugins:
   - jekyll-feed
